@@ -83,15 +83,6 @@ in
 
 ---
 
-## 👤 Autor
-
-**Rafael Souza Da Silva**  
-Estudante de Engenharia de Computação | Power BI & Dados  
-📧 rafael.souzadsilva1@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rafael-souza-da-silva/)  
-
----
-
 ## 📌 Observações
 
 Este dashboard pode ser expandido com novas métricas, análises de tendência e integração com fontes automatizadas de dados via gateway. Para contribuições ou dúvidas, fique à vontade para abrir um *issue* ou fazer um *fork*.
